@@ -7,7 +7,7 @@ Bem vindo ao meu Github! Sou formado em Ciência da Computação e tenho experi�
     - Java com Spring Boot e microserviços.
     - Docker, ELK, Jenkins e servidores AWS.
 
-## 🥅 Metas para 2020: 
+## Metas para 2020: 
     - Aprender um pouco de front
     - Me aprofundar em Node.js
     - Pesquisar mais sobre arquitetura
@@ -19,7 +19,7 @@ Bem vindo ao meu Github! Sou formado em Ciência da Computação e tenho experi�
 [<img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/ios/50/000000/linkedin.png"/>][linkedin]
 
 [twitter]: (https://twitter.com/frsiqueirabr)
-[discord]: FRSiqueira#1145
+[discord]: https://discordapp.com/channels/@me/FRSiqueira#1145/
 [linkedin]: https://www.linkedin.com/in/felipe-siqueira-197116119
 
 
